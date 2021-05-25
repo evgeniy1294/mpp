@@ -1,0 +1,3 @@
+[submodule "mppbase"]
+	path = mppbase
+	url = git@github.com:evgeniy1294/mppbase.git
